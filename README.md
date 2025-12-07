@@ -23,7 +23,7 @@ Studied Knowledge Integration at University of Waterloo.
 
 ## github-stats
 
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pslempers&commits_year=2025&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pslempers&commits_year=2025&theme=transparent)]
 
 
 ## language-history
