@@ -12,7 +12,7 @@
 
 ## bio
 
-- I’m interested in becoming a web developer and interactive designer, utilizing my composing skills and passion for games.
+- I’m becoming a web developer and interactive designer.
 - 🌱
 - 2020-2023: I learned some Unreal Engine 5, C++, pixel art, 3D game design, and the German language!
 - 2024: I'm now experimenting with ChatGPT and making small JavaScript web-apps to learn.
