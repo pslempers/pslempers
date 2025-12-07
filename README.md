@@ -1,13 +1,14 @@
 # pslempers
 
-![javascript](/images/javascript-logo.png)
-![html5](/images/html5-logo.png)
-![csharp](/images/csharp-logo.png)
-![php](/images/php-logo.png)
-![sibelius](/images/sibelius-logo.png)
-![ableton](/images/ableton-logo.png)
-![logic](/images/logic-logo.png)
-![figma](/images/figma-logo.png)
+![javascript](/images/javascript-logo50px.png)
+![html5](/images/html5-logo50px.png)
+![csharp](/images/csharp-logo50px.png)
+![php](/images/php-logo50px.png)
+![codepen](/images/codepen-logo50px.png)
+![sibelius](/images/sibelius-logo50px.png)
+![figma](/images/figma-logo50px.png)
+![pixaki](/images/pixaki-logo50px.png)
+
 
 ## bio
 
