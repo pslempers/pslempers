@@ -1,5 +1,7 @@
 # pslempers
 
+I blend design thinking, group facilitation, and technical craft with formal training in web development at Humber Polytechnic.
+
 ![javascript](/images/javascript-logo50px.png)
 ![html5](/images/html5-logo50px.png)
 ![csharp](/images/csharp-logo50px.png)
@@ -10,13 +12,13 @@
 ![pixaki](/images/pixaki-logo50px.png)
 
 
-## bio
+## what I'm up to
 
 - I’m becoming a web developer and interactive designer.
 - 🌱
-- 2020-2023: I learned some Unreal Engine 5, C++, pixel art, 3D game design, and the German language!
-- 2024: I'm now experimenting with ChatGPT and making small JavaScript web-apps to learn.
-- 2025: I'm enrolled at Humber Polytechnic for Web Development to skill up in the web stack.
+- 2020-2023: started with Unity Game Engine, C#, pixel art, 3D game design, and the German language!
+- 2024: experimenting with ChatGPT and making small JavaScript web-apps to learn.
+- 2025: enrolled at Humber Polytechnic for Web Development learning the full web stack.
 
 ## github-stats
 
