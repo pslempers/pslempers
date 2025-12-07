@@ -1,6 +1,7 @@
 # pslempers
 
 I blend design thinking, group facilitation, and technical craft with formal training in web development at Humber Polytechnic.
+Studied Knowledge Integration at University of Waterloo.
 
 ![javascript](/images/javascript-logo50px.png)
 ![html5](/images/html5-logo50px.png)
@@ -22,7 +23,7 @@ I blend design thinking, group facilitation, and technical craft with formal tra
 
 ## github-stats
 
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pslempers)](https://github.com/anuraghazra/github-readme-stats)
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pslempers&commits_year=2025&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## language-history
