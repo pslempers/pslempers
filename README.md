@@ -22,7 +22,7 @@ I blend design thinking, group facilitation, and technical craft with formal tra
 
 ## github-stats
 
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pslempers&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pslempers)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## language-history
