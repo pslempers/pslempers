@@ -43,12 +43,9 @@ Studied Knowledge Integration at University of Waterloo.
 | German               | B1-Level Integrationskurse         | Dr. Ridder Sprachen       | Nina Stuhlmacher |
 
 
-- 💞️
-- I’m looking to collaborate in more game jams to meet new creators!
-- 📫
-- Here's my [Markdown Portfolio](https://pslempers.github.io)!
+Here's my [Markdown Portfolio](https://pslempers.github.io)!
 
 <!---
-Pslempers/Pslempers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pslempers/pslempers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
