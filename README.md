@@ -22,6 +22,12 @@ Studied Knowledge Integration at University of Waterloo in the Bachelor of KI pr
 - 2025: enrolled at Humber Polytechnic for Web Development learning the full web stack.
 - 2026: I now have experience building LAMP, MERN, and ASP.NET Core web applications, looking to gain experience as a professional dev.
 
+## some recent work
+- [Mathchievements - math practice tool with Firebase back-end](https://pslempers.github.io/mathchievements/)
+- [PokeAPI Pokedex - small stylized REST API app on Codepen](https://codepen.io/pslempers/pen/dPpdogb)
+- Working on getting my other small projects hosted soon.
+
+
 ## github-stats
 
 [![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pslempers&commits_year=2025&theme=transparent)]
