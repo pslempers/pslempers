@@ -25,6 +25,7 @@ Studied Knowledge Integration at University of Waterloo in the Bachelor of KI pr
 ## some recent work
 - [Mathchievements - math practice tool with Firebase back-end](https://pslempers.github.io/mathchievements/)
 - [PokeAPI Pokedex - small stylized REST API app on Codepen](https://codepen.io/pslempers/pen/dPpdogb)
+- [Divvision - my first React app using components and useState](https://divvision-react-site.vercel.app/)
 - Working on getting my other small projects hosted soon.
 
 
