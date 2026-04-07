@@ -20,7 +20,7 @@ Studied Knowledge Integration at University of Waterloo in the Bachelor of KI pr
 - 2020-2023: started with Unity Game Engine, C#, pixel art, 3D game design, and the German language!
 - 2024: experimenting with ChatGPT and making small JavaScript web-apps to learn.
 - 2025: enrolled at Humber Polytechnic for Web Development learning the full web stack.
-- 2026: I now have experience building LAMP MERN, and ASP.NET Core web applications, looking to gain experience as a professional dev.
+- 2026: I now have experience building LAMP, MERN, and ASP.NET Core web applications, looking to gain experience as a professional dev.
 
 ## github-stats
 
