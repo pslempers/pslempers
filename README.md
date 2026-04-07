@@ -31,7 +31,9 @@ Studied Knowledge Integration at University of Waterloo.
 | Languages            | Courses taken                      | Institution               | Instructor |
 | -------------------- | ---------------------------------- | ------------------------- | ---------- |
 | Git VCS              | [http5114-workshops-in-web-development](https://github.com/pslempers/http5114-workshops-in-web-development) | Humber Polytechnic | Adam Thomas |
-| JavaScript           | [http5122-front-end-web-development](https://github.com/pslempers/http5122-front-end-web-development) | Humber Polytechnic        | Sean Doyle |
+| Git VCS              | [http5214-workshops-in-web-development-2](https://github.com/pslempers/http5214-workshops-in-webdev-2) | Humber Polytechnic | Adam Thomas |
+| Vanilla JavaScript           | [http5122-front-end-web-development](https://github.com/pslempers/http5122-front-end-web-development) | Humber Polytechnic        | Sean Doyle |
+| MongoDB, ExpressJS, ReactJS, NodeJS           | [http5222-full-stack-web-development](https://github.com/pslempers/http5222-full-stack-web-development) | Humber Polytechnic        | Joanna Kommala |
 | HTML / CSS                  | [http5121-web-design](https://github.com/pslempers/http5121-web-design)                | Humber Polytechnic        | Joanna Kommala |
 | PHP                  | [http5126-database-design-and-development](https://github.com/pslempers/http5126-database-design-and-development)   | Humber Polytechnic        | Sam Bebenek |
 | MySQL                | [http5126-database-design-and-development](https://github.com/pslempers/http5126-database-design-and-development)   | Humber Polytechnic        | Sam Bebenek |
